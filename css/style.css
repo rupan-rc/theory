@@ -1,0 +1,250 @@
+body{
+    padding: 0;
+    margin: 0;
+    font-family: 'Raleway', sans-serif;
+    
+}
+.big-box{
+    height: 400px;
+    width: 100%;
+    background-image: url(../images/dd.jpg);
+    border-top: 10px solid rgb(98, 98, 241);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.div-1000px{
+    height: 400px;
+    width: 1000px;
+    margin: 0 auto;
+}
+.nav{
+    height: 330px;
+    width: 1000px;
+    color: white;
+    position: absolute;
+    margin-top: 70px;
+}
+.nav p{
+    float: left;
+    font-weight: bold;
+    color: white;
+    cursor: pointer;
+}
+.nav ul li{
+    float: right;
+    list-style: none;
+    margin-left: 20px;
+    cursor: pointer;
+}
+.nav h1{
+    text-align: center;
+    justify-content: center;
+    position: relative;
+    margin-top: 90px;
+    font-weight: 100;
+    font-size: 50px;
+    color: white;
+}
+.nav span{
+    font-size: small;
+    text-align: center;
+    justify-content: center;
+    margin-left: 320px;   
+}
+.white-box{
+    height: 400px;
+    width: 100%;
+    background-color: white;
+    clear: both;
+    margin-top: 150px;
+}
+.container{
+    height: 400px;
+    width: 1000px;
+    margin: 0 auto;
+}
+.box-1{
+    width: 293px;
+    float: left;
+    margin-right: 64px;
+    border-right: 1px solid grey;
+    margin-bottom: 100px;
+}
+.box-2{
+    width: 293px;
+    float: left;
+    margin-right: 40px;
+    border-right: 1px solid grey;
+}
+.box-3{
+    width: 293px;
+    float: right;
+}
+.box-1, .box-2, .box-3, h1{
+    font-size: 20px;
+    font-weight: 300;
+    color: #5385c1;
+}
+.box-1, .box-2, .box-3, p{
+    margin-top: 30px;
+    line-height: 25px;
+    font-size: small;
+    font-size: medium;
+}
+button{
+    padding: 10px 20px;
+    background-color: #5385c1;
+    font-weight: bold;
+    font-size: large;
+    border: none;
+    color: white;
+}
+.blue-box{
+    height: 800px;
+    width: 100%;
+    background-color: #5385c1;
+    overflow: auto;
+}
+.container-2{
+    height: 800px;
+    width: 1000px;
+    margin: 0 auto;
+    overflow: auto;
+}
+.container-2 h1{
+    text-align: center;
+    margin-top: 100px;
+    font-weight: 300;
+    font-size: 50px;
+    color: white;
+}
+.container-2 small{
+    color: white;
+    margin-left: 37%;
+    font-size: 18px;
+}
+.member-1,.member-2,.member-3{
+    height: 350px;
+    width: 210px;
+    border: 1px solid white;
+    float: left;
+    margin-right: 40px;
+    text-align: center;
+} 
+.member-4{
+    float: right;
+    height: 350px;
+    width: 210px;
+    border: 1px solid white;
+    text-align: center;
+}
+.member-1 img{
+    margin-top: 30px;
+    border-radius: 50%;
+}
+.member-2 img{
+    margin-top: 30px;
+    border-radius: 50%;
+}
+.member-3 img{
+    margin-top: 30px;
+    border-radius: 50%;
+}
+.member-4 img{
+    margin-top: 30px;
+    border-radius: 50%;
+}
+.member-1,.member-2,.member-3,.member-4, h2{
+    color: white;
+    font-weight: 300;
+}
+.member-1, p{
+    color: white;
+}
+#pop{
+    color: gray;
+}
+#pop-2{
+    color: grey;
+}
+#pop-3{
+    color: gray;
+}
+.last-container{
+    height: 82vh;
+    width: 100%;
+    background-color: white;
+    clear: both;
+}
+.last-1000px{
+    height: 86vh;
+    width: 1000px;
+    margin: 0 auto;
+    clear: both;
+    overflow: hidden;
+}
+#head{
+    text-align: center;
+    font-size: 50px;
+    color: #5385c1;
+    margin-top: 120px;
+    font-weight: 500;
+}
+#leg{
+    text-align: center;
+    color: grey;
+    font-size: 17px;
+    position: relative;
+    margin-top: -20px;
+}
+.left{
+    height: 500px;
+    width: 475px;
+    float: left;
+    margin-top: 60px;
+}
+.right{
+    height: 500px;
+    width: 475px;
+    float: right;
+    margin-top: 60px;
+}
+.left img{
+    width: 475px;
+    margin-bottom: 50px;
+}
+.right img{
+    width: 475px;
+    margin-bottom: 50px;
+}
+#grey{
+    color: grey;
+}
+#gray{
+    color: grey;
+}
+.footer{
+    height: 150px;
+    width: 100%;
+    overflow: auto;
+}
+.footer-1000px{
+    height: 150px;
+    width: 1000px;
+    margin: 0 auto;
+}
+.footer-1000px p{
+    margin-top: 70px;
+    color: grey;
+    float: left;
+}
+.social{
+    float: right;
+    margin-top: 70px;
+    
+}
+.social img{
+    margin-left: 10px;
+    color: #5385c1;
+    
+}
